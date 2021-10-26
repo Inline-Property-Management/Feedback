@@ -1,0 +1,54 @@
+body {
+color: rgb(89,89,89);
+text-align: center;
+}
+
+
+#contactdetails {
+margin-top:50px;
+}
+
+#name {
+font-family:Lato;
+font-size:15pt;
+width:35%;
+padding:10px;
+margin:15px;
+}
+
+#phone {
+font-family:Lato;
+font-size:15pt;
+width:35%;
+padding:10px;
+margin:15px;
+}
+
+#email {
+font-family:Lato;
+font-size:15pt;
+width:35%;
+padding:10px;
+margin:15px;
+}
+
+#prevBtn {
+width:10%;
+background-color:#595959;
+color:#ffffff;
+font-family:Lato;
+font-size:15px;
+padding:10px;
+margin:10px;
+border-radius:5px;
+}
+#nextBtn {
+width:10%;
+background-color:#595959;
+color:#ffffff;
+font-family:Lato;
+font-size:15px;
+padding:10px;
+margin:10px;
+border-radius:5px;
+}
