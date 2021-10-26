@@ -1,0 +1,101 @@
+body {
+color: #595959;
+text-align: center;
+}
+
+
+#contactdetails {
+margin-top:50px;
+}
+
+#name {
+font-family:Lato Light;
+font-size:15pt;
+width:35%;
+padding:10px;
+margin:15px;
+}
+
+#phone {
+font-family:Lato Light;
+font-size:15pt;
+width:35%;
+padding:10px;
+margin:15px;
+}
+
+#email {
+font-family:Lato Light;
+font-size:15pt;
+width:35%;
+padding:10px;
+margin:15px;
+}
+
+#feedback {
+font-family:Playfair Display;
+font-size:15pt;
+padding:10px;
+margin-top:50px;
+}
+
+.score {
+font-family:Lato;
+font-size:15pt;
+margin-bottom:100px;
+margin-top:30px;
+padding:10px;
+}
+
+.score ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+font-family:Lato;
+font-size:15pt;
+}
+
+.score li {
+display:inline;
+padding:5px;
+font-family:Lato;
+margin:15px;
+}
+
+#reuse {
+padding:10px;
+margin-top:30px;
+width:35%;
+font-family:Playfair Display;
+font-size:15px;
+color:#595959;
+}
+
+#reuse option {
+font-family:Lato;
+text-align:center;
+}
+
+#testimonial{
+padding:10px;
+margin-top:50px;
+font-family:Playfair Display;
+font-size:15pt;
+color:#595959;
+}
+
+#testimonial textarea {
+margin:0px;
+}
+
+#nextBtn {
+width:10%;
+background-color:#595959;
+color:#ffffff;
+font-family:Lato;
+font-size:15px;
+padding:10px;
+margin:10px;
+border-radius:5px;
+}
+
