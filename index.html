@@ -5,7 +5,7 @@
 <body>
 <img src="IPM Feedback Cover.jpg" width="100%" height="100%">
 
-<form action="/feedback.php">
+<form action="Feedback_handler.php" method="post">
 
 <div class="tab" id="contactdetails">
 <p><input type="text" id="name" name="name" value="" placeholder="Full Name" oninput="this.className=''"></p>
@@ -49,7 +49,7 @@
 <div class="tab"id="testimonial">
 <p>Would you like to provide a testimonial to be used for marketing purposes?</p>
 <textarea id="testimonial" name="testimonial" rows="20" cols="60"></textarea><br>
-<button type="button" id="nextBtn" onclick="nextPrev(1)">Submit</button>
+<input type="submit" id="nextBtn"></button>
 </div>
 
 <div style="text-align:center;margin-top:40px;">
@@ -60,6 +60,8 @@
 </div>
 
 </form>
+
+
 
 </body>
 </html>
